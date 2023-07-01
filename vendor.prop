@@ -1,0 +1,5 @@
+# Bluetooth
+bluetooth.device.default_name= Sextoy
+
+## RIL
+ro.radio.noril=true
